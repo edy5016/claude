@@ -1,0 +1,8 @@
+{
+    "plansDirectory":".claude/plans",
+    "statusLine": {
+        "type": "command",
+         "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"C:/Dev/Cursor/claude/.claude/statusline.ps1\""
+        
+    }
+}
